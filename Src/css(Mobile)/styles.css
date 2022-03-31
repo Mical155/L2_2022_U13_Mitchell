@@ -43,7 +43,7 @@
 
   .navbarheader a:hover {
     color: rgb(15, 15, 15);
-    transition: all .0.1s linear;
+    transition: all 0.1s linear;
   }
 
     .logo {
