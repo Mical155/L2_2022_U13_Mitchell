@@ -1,0 +1,258 @@
+.phoneframe {
+    width: 35%;
+    position: relative;
+    left: 30%;
+    border: solid grey;
+    background-color: black;
+}
+
+.banner {
+  width: 100%;
+  height: 20vh;
+  border: 1px solid rgb(59, 56, 56);
+  background-repeat: no-repeat;
+  background: url(../Img/bannerimage.jpg);
+  background-size: cover;
+}
+
+.navbarheader ul {
+    list-style: none;
+    background: rgb(59, 56, 56);
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+  }
+
+  .navbarheader li {
+    display: inline-block;
+  }
+
+  .navbarheader a {
+    text-decoration: none;
+    color: white;
+    width: 100%;
+    display: block;
+    padding: 25px;
+    padding-left: 5px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .navbarheader a:hover {
+    color: rgb(15, 15, 15);
+    transition: all .0.1s linear;
+  }
+
+    .logo {
+    display: flex;
+    position: relative;
+    padding-left: 25%;
+    top: 5%;
+    height: 16.5vh;
+    width:10%;
+  }
+
+  .headercontainer {
+    display: flex;
+    justify-content: center;
+    font-family: 'Teko', sans-serif;
+    color: white;
+    padding-top: 20px;
+  }
+
+  .carouselbox {
+    width: 80%;
+    height: 30vh;
+    border: solid grey;
+    position: relative;
+    left: 10%;
+    top: 10px;
+  }
+
+  .cardwrapper {
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+  }
+ 
+  .p {
+   font-family: 'Teko', sans-serif;
+   color: white;
+  }
+ 
+  .cards {
+    width: 300px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Teko', sans-serif;
+    float: left;
+    margin: 10px;
+    background: rgb(56, 55, 55);
+    color: white;
+  }
+ 
+  .cardstext {
+    text-decoration: none;
+    color: white;
+    width: 100%;
+    padding-top: 2px;
+    padding-bottom: 25px;
+    font-family: 'Teko', sans-serif;
+  }
+
+  .button {
+    background-color: rgb(12, 12, 243);
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+    border: 4px solid #0632f3;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 20px;
+   }
+ 
+  .buttonbox {
+     text-decoration: none;
+     width: 100%;
+     padding-top: 2px;
+     padding-bottom: 25px;
+     font-family: 'Teko', sans-serif;
+   }
+
+   .videobox {
+    width: 90%;
+    height: 50vh;
+    border: solid grey;
+    position: relative;
+    left: 5%;
+    bottom: 100px;
+  }
+
+  .footer {
+    width: 100%;
+    height: 10vh;
+    border: solid rgb(99, 96, 96) 5px;
+    background-color: rgb(99, 96, 96)
+  }
+  
+  
+  .footerbox {
+    position: relative;
+    left: 10%;
+    width: 100%;
+    height: 3vh;
+    font-size: 40px;
+    font-family: 'Teko', sans-serif;
+    font-size: 30px;
+  }
+
+  .PhoneBrands ul {
+    list-style: none;
+    background: rgb(7, 6, 6);
+    padding: 0%;
+    padding-top: 50px;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+  }
+  
+  .PhoneBrands li {
+    display: inline-block;
+  }
+  
+  .PhoneBrands a {
+    text-decoration: none;
+    color: white;
+    width: 50%;
+    display: block;
+    padding: 0px;
+    padding-left: 10px;
+    position: relative;
+    left: 0px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Teko', sans-serif;
+  }
+
+  .webinformation {
+    margin: 40px auto;
+    padding: 14px;
+    border-radius: 10px;
+    border-width: 10px;
+    background: white;
+    max-width: 450px;
+    font-family: 'Teko', sans-serif;
+    font-size: large;
+    font-size: 30px;
+  }
+
+  .HelpNav ul {
+    list-style: none;
+    background: (7, 6, 6);
+    padding: 0%;
+    padding-top: 50px;
+    margin: 0%;
+  }
+
+
+  .HelpNav a {
+    text-decoration: none;
+    color: white;
+    width: 50%;
+    display: block;
+    padding: 0px;
+    padding-left: 50px;
+    padding-top: 30px;
+    position: relative;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Teko', sans-serif;
+  }
+  
+  
+  .button3 {
+    background-color: rgb(23, 8, 240);
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    width: 111px;
+    border: 4px solid #0632f3;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 20px;
+   }
+
+   .button2 {
+    background-color: rgb(23, 8, 240);
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+    border: 4px solid #0632f3;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 20px;
+   }
+  
+  .buttonbox2 {
+     text-decoration: none;
+     width: 100%;
+     padding-top: 2px;
+     padding-bottom: 25px;
+     padding-right: 75px;
+     font-family: 'Teko', sans-serif;
+     display: flex;
+     justify-content: flex-end;
+   }
