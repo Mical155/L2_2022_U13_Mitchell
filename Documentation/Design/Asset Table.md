@@ -41,3 +41,9 @@
 | https://shop.ee.co.uk | Y | Oppo A94 | 450x450 | Will be the fourth image on the oppo phone brand section in the shop web page. | 
 | https://shop.ee.co.uk | Y | Oppo A16s | 450x450 | Will be the fifth image on the oppo phone brand section in the shop web page. |
 | https://shop.ee.co.uk | Y | Oppo Find X3 Lite | 450x450 | Will be the sixth image on the oppo phone brand section in the shop web page.
+
+# Website Logo
+
+<img src="../Images/Other/logo.jpg" alt="alt text" height="100%" width="100%">
+
+This will be the image for my website and I chose this color scheme because it is similar to the one that I am currently using for my entire website. The logo will be located at the top of each web page within the website. This was made in adobe photoshop and the MP stands for Mitchell's Phones, I could probably add that jus5t underneath so that people know what it stands for.
