@@ -40,7 +40,7 @@ On the 19th of April 2022, I had my website reviwed by Levente, he provided me w
 
 ## Improvement 
 
-The improvement Levente provided me with was to change the size of certain images of the phones within the phone shop web page. His reason was because "some of them are larger than others, try and keep them the same size". I completely agree with this statement because it will keep the consistency and seem more professional if I do so. I can change this with the use of adobe photoshop, I can just take the larger images onto there and then resize them. 
+The improvement Levente provided me with was to change the size of certain images of the phones within the phone shop web page. His reason was because "some of them are larger than others, try and keep them the same size". I completely agree with this statement because it will keep the consistency and seem more professional if I do so. I can change this with the use of adobe photoshop, I can just take the larger images onto there and then resize which can be done for a future update.
 
 
 
