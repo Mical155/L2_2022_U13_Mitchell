@@ -40,5 +40,10 @@ Firstly, I added a youtube video which is a showcase of the iphone 13 because it
 These are the contents that I ended up removing which were mentioned in my planning of the website. 
 
 ### I removed:
-- Read reviews button
-- Contact us button
+- Swapped footer contents with copyright information
+- Contact us page
+- Reviews page
+
+## Reasons I removed them
+
+Firstly, I swapped the original contents of the footer (website information, read review button and contact us button) with copyright information, this is because the reviews page would be unnecessary because the website is completely new so it can be added in a future update, the contact us button isn't necessary either becuase I now have a discord link in the help pages. This also means the contact us page and reviews page won't be included in the about us and help pages because they are completely unecessary to have right now.
