@@ -34,7 +34,13 @@ Another very simple improvement that Ashley provided me with was for the main sh
 
 Lastly, Ashley recommended that instead of a youtube link I should "embed video code" so that the actual youtube video will appear on my website so that any user can just watch it, it also saves time having to load up youtube to watch the video. I agreed with this statement so what I will do is load up youtube and copy the link when I get onto the web page with the video and then just include embed in the youtube link so that it renders onto the web page.
 
+# Second review
 
+On the 19th of April 2022, I had my website reviwed by Levente, he provided me with some feedback and he agreed that my website was great and functioned properly, he only gave me one improvement which I completley agree with.
+
+## Improvement 
+
+The improvement Levente provided me with was to change the size of certain images of the phones within the phone shop web page. His reason was because "some of them are larger than others, try and keep them the same size". I completely agree with this statement because it will keep the consistency and seem more professional if I do so. I can change this with the use of adobe photoshop, I can just take the larger images onto there and then resize them. 
 
 
 

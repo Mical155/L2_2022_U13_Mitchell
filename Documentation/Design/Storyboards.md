@@ -64,6 +64,14 @@ Like all the other web pages the banner and nav bar will always be the same size
 
 <img src="../Images/Storyboards/AlternateShopPageStoryboard.jpg" alt="alt text" height="100%" width="100%">
 
+# Elaboration
+
+This was an alternate design of my shop web page for my website, I chose not to use this as my final design because that im not showing off enough of the products when the page first renders in, users usually scroll through quickly, so it is ideal to have the phones near the top so that they grab the users attention, leading them to look through the web page. Also the buttons on this design are rather large which may look unprofessional since larger buttons are usually used for websites that are aimed at a younger age group so that they can click on them easier.
+
+# Sizes and measurements
+
+As I said before, the buttons on this page are much bigger than the ones on the original design which just looks less organised and professional. Plus if the buttons are way too big the text within the button will have to be resized to become much larger which yet again can look a bit unorganised. 
+
 # Help Page Storyboard
 
 <img src="../Images/Storyboards/HelpPageStoryboard.jpg" alt="alt text" height="100%" width="100%">
