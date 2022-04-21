@@ -3,7 +3,7 @@
 | Source  |  Copyright | Image  | Size   | Position on website  |
 |---|---|---|---|---|
 | https://shop.ee.co.uk | Y | Samsung Galaxy S21 Ultra | 450x450 | Will be the first image on the samsung phone brand section in the shop web page. |
-|https://www.filmywab.top  | Y  | Samsung Galaxy S21  | 450x450  | Included in te slide show on the home page and will be the second image on the samsung phone brand section in the shop web page. |
+|https://www.filmywab.top  | Y  | Samsung Galaxy S21  | 450x450  | Will be the second image on the samsung phone brand section in the shop web page. |
 |https://www.etisalat.ae| Y  | Samsung Galaxy Note20 5G  | 450x450  | Will be the third image on the samsung phone brand section in the shop web page.  |
 | https://shop.ee.co.uk | Y | Samsung Galaxy A12 | 450x450 | Will be the fourth image on the samsung phone brand section in the shop web page. |
 | https://shop.ee.co.uk | Y | Samsung Galaxy S20 | 450x450 | Will be the fifth image on the samsung phone brand section in the shop web page. |
@@ -13,7 +13,7 @@
 
 |Source   | Copyright  | Image | Size  | Position on website  |
 |---|---|---|---|---|
-| https://rewardmobile.co.uk | Y  | iPhone 13 Pro max  | 450x450 | Included on the slide show at the top of the home page and will be the first image on the apple phone brand section in the shop web page. | 
+| https://rewardmobile.co.uk | Y  | iPhone 13 Pro max  | 450x450 | Included on the carousel at the top of the home page and will be the first image on the apple phone brand section in the shop web page. | 
 | https://netlive.live | Y | iPhone 12 Pro | 450x450 | Included on the slide show on home page and will be the second image on the apple phone brand section in the shop web page. | 
 | https://shop.ee.co.uk | Y | iPhone 13 | 450x450 | Will be the third image on  the apple phone brand section in the shop web page. |
 | https://shop.ee.co.uk | Y | iPhone 12 | 450x450 | Will be the fourth image on the apple phone brand section in the shop web page.

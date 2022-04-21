@@ -14,17 +14,17 @@ The middle section of the home page is used to show off the products so that my 
 
 ## Footer Section
 
-In the footer section I have included only a little bit of website information because customers may not be interested and it would be best to have it at the bottom where the customers would unlikely look, I also have a seperate web page for that. I have also included a button hyperlink that says read reviews which will take the user to a seperate web page that contains a group of reviews that may convince them that the website is reliable and helpful. Like other shopping websites I included some copyright information because it helps to warn users about copyright laws but I placed it at the bottom of the home page because like the website information, customers may not be interested. Also a contact us option is there which will include the following social media; instagram, snapchat, discord and facebook. 
+In the footer section I have included only a little bit of website information because customers may not be interested and it would be best to have it at the bottom where the customers would unlikely look, I also have a seperate web page for that (about us page). I have also included a button hyperlink that says read reviews which will take the user to a seperate web page that contains a group of reviews that may convince them that the website is reliable and helpful. Like other shopping websites I included some copyright information because it helps to warn users about copyright laws but I placed it at the bottom of the home page because like the website information, customers may not be interested. Also a contact us option is there which will include the following social media; instagram, snapchat, discord and facebook. 
 
 ## Sizes and measurements
 
-Starting off with the banner and nav bar, they will both have the same width which will be 100% because I want them to go across the whole way on the web page which is very common with other websites, their height will be different however and the banners height will be vh and the nav bars will be vh, the banner will be taller because it would probably contain more content than the nav bar. There will be no gap inbetween the banner and nav bar, they will be completely connected.
+Starting off with the banner and nav bar, they will both have the same width which will be 100% because I want them to go across the whole way on the web page which is very common with other websites, their height will be different however and the banners height will be 30vh and the nav bars will be approxiamtely 15vh because it will be given a default height, the banner will be taller because it would probably contain more content than the nav bar. There will be no gap inbetween the banner and nav bar, they will be completely connected.
 
-The slide show will be fairly big with a width of 80% and a height of vh. This is because of the slide shows purpose and that is to showcase the best selling products so it would be ideal to have it stand out. 
+The slide show will be fairly big with a width of 50% and a height of 70vh. This is because of the slide shows purpose and that is to showcase the best selling products so it would be ideal to have it stand out. 
 
-The images underneath the slide show will be contained in cards so with text which describes the product so the width of the images will be % and the height will be vh so that all of the content within the cards can fit perfectly. The width of the cards will be % and the height will be vh because there will be three of them that will be in a row with about {} between them, so these sizes allow them to fit in the web page. 
+The images underneath the slide show will be contained in cards so with text which describes the product so the width of the images will be 100% and will be given a default height so that all of the content within the cards can fit perfectly. The width of the cards will be 300px and the height will also have a default, like the cards, some of the websites content will be measured in pixels just because I may want to be more precise.
 
-The entire footer section will have a width of % and a height of vh. The size given to the footer section is large enough to hold a decent amount of content such as the website information, read reviews button and any contact us hyperlinks. The box that contains the contact hyperlinks will be the same size of the read reviews button with a width of % and a height of vh.
+The entire footer section will have a width of 100% and a height of 100%, they are both going to be 100% because I will make a box that will contain the footer so making the footer have 100% height and width will make it fit the box perfectly.
 
 # Alternate Home Page Storyboard
 
@@ -55,10 +55,7 @@ The first content that will appear which is only found on this web page is the b
 
 ## Products showcase
 
-When the shop web page renders in the user will see three images contained in cards just like the home page. These are the best sellers and this will change wehn a user clicks on one of the brand buttons located above the images. After that, there will now be six images and three being on each row.
-
-## Sizes and measurements
-Like all the other web pages the banner and nav bar will always be the same size since it is on every single page and it would look more proffessional if they stays the same size. Underneath are the four brand options which will have a width of % and a height of vh due to the fact there are four of them that have to be fitted in a row across the web page with {} inbetween them and these sizes make them fit perfectly. Each of the images and the cards that they are contained in will have the same width and height as the ones located on the home page. When one of the brands are clicked on there will be six cards with an image inside them, there is three of tem on each row so that the sizes can stay the same instead of having to edit their size so that six of them can fit on one row, this also means that the height of the whole web pae will be slightly extended to fit all contents on it. Due to the copyright information being the only content that is located in the footer section of this page it will be the same size as the footer section that is on any other page that has a footer section.
+When the shop web page renders in the user will see three images contained in cards just like the home page. These are the best selling products and once the user clicks on any of the brand options the next web page will look similar to the the main shop page but will have an extra row of shop items and all of the phones will only be the ones from the brand the user chose on the main shop page. After that, there will now be six images and three being on each row.
 
 # Alternate Shop web page storyboard
 
@@ -82,7 +79,7 @@ I chose this design as my main design that I will be using because it just looks
 
 ## Sizes and measurements 
 
-The width of the section of the container that the text is in will have the same width throughout all sections but the height will be different in the different topics becuase the height will be determined by how much text the container has inside. The sizes I have chosen I belive were a good choice because obviously they fit into the web page perfectly without having the text inside cramped up together and preventing the need to have a long scroll down. 
+The width of the container that the text is in will have the same width throughout all the containers in the help web pages but the height will be different in the different pages becuase the height will be determined by how much text the container has inside. The sizes I have chosen I belive were a good choice because obviously they fit into the web page perfectly without having the text inside cramped up together and preventing the need to have a long scroll down which users will not want to read.
 
 
 # Alternate Help web page storyboard
@@ -92,10 +89,6 @@ The width of the section of the container that the text is in will have the same
 # Elaboration 
 
 This design is was an alternative but it won't be the main design that i will be using for my 'Help' web page. The reason it won't be my main design is because it's far too simple up to the point where all of the details are contained into one web page since that in this design the navigation to the different topics is taken out, this will not only cause a long scroll down but will also make it harder for the user to navigate to certain information that they want know. 
-
-## Sizes and measurements 
-
-Like i've mentioned before the height of the containers that the text is kept in will be determined by how much text is in there. In this case the container for this web page design will be very high since all of the information from the other sections is in one web page, yet agian this will only make the web page look more unprofessional and untidy and will make the navigation for users harder. The width is the exact same as the containers found on the main design but the flaws of this web page completely outweigh its advantages.
 
 # About Us web page storyboard 
 
@@ -117,7 +110,3 @@ Like the 'Help' web page the box/containers height will be determined by how muc
 # Elaboration
 
 This alternate design is far more different than any other web page in this website and that is because it contains accordions that hold all of the information. Each one holds a differentg topic and even though the accordions prevent long scroll downs and is able to hold all of the information on one web page, I personally felt that it makes my website seem a bit inconsistent, I  would rether have the other design because I felt that it was better to have a similar layout to the other web pages because it seemed more professional. It's also better to have different information on seperate web pages because it makes great use of the navigation and is easier to locate different topics instead of having to scavage through one web page with a lot of text. 
-
-## Sizes and measurements
-
-The width for each of the accordions are what they are on the storyboard because there are two on each row and their widths plus the gap inbetween add up to the same width as the containers on my main design, so in conclusion the width is fine. The heights for all of the accordions are the same except for the dropdwons within them, their height just depends on how much text is in there. 

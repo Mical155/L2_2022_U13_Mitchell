@@ -1,6 +1,6 @@
 # Colour Scheme 
 
-## Likely colour schemes:
+## Color schemes I may use:
 - Dyadic 
 - Monochromatic
 - Complamentary 
@@ -10,12 +10,11 @@
 - URL
 
 ## How i plan to use them:
-- Light 
-- Dark 
-- Text
+- Font color
 - Background
-- Navigation bar 
-- Banner
+- Navigation bar background
+- Border for banner
+- Entire website background
 
 ## Common mobile phone website colour schemes:
 - Black and white
@@ -27,7 +26,7 @@
 ## Why these colour schemes
 I believe these colour schemes are more suitable for a mobile phone website because unlike the colour schemes like triadic and tetradic, they are much more simple due to their lack of colour variety but that's what makes them look more neat and professional, which is what I am aiming for since this website is directed at adults. Additionally, my website will include images of mobile phones which will obviously have their own colours, so them colours in the images in addition with an extremely colourful colour scheme on my website would have a result of my website looking very unprofessional and disorganised.
 
-## Unlikely colour schemes:
+## Color Schemes I may not use:
 - Triadic
 - Tetradic
 
@@ -46,4 +45,4 @@ This colour scheme suitable for my website mainly because it's not too chaotic a
 <img src="../Images/ColourSchemes/AlternatePalette.png" alt="alt text" height="100%" width="100%">
 
  
- This palette is my alternate colour scheme but I won't be using it as my main one because of the following reasons. Firstly, the colours are much more random then the original, probably due to the fact that this colour scheme is triadic and the original is monochromatic. The fact that there are more colours to be added because of the images of the phones will make this website be overwhelmed by a large variety of colours and it would have simply too many and it would look unprofessional for an online phone shop. Additionally, I don't see these colours mixing together very well on this website because all four of them are completley different types of colours on a palatte.
+This palette is my alternate colour scheme but I won't be using it as my main one because of the following reasons. Firstly, the colours are much more random then the original, probably due to the fact that this colour scheme is triadic and the original is monochromatic. The fact that there are more colours to be added because of the images of the phones will make this website be overwhelmed by a large variety of colours and it would have simply too many and it would look unprofessional for an online phone shop. Additionally, I don't see these colours mixing together very well on this website because all four of them are completley different types of colours on a palatte.
