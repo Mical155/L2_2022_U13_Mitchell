@@ -19,3 +19,26 @@ What I mean by the shop nav bar compressing with the web page is that currently 
 
 This can easily be changed but the images that are included on the carousel can be darkened when the cursor hovers over them. This is just a way of identifying which content is being hovered over by the user and which one will be clicked on if the user clicked on the mouse. To do this will just add this hover over effect onto the css for the carousel. 
 
+# Changes made
+
+## Content added
+
+These are the contents that I have added whilst developing my website but was not mentioned in my planning of the website. 
+ 
+### I added:
+- Youtube video
+- Discord hyperlink
+- Banner background image
+- Phones database
+
+## Reasons I added them
+
+Firstly, I added a youtube video which is a showcase of the iphone 13 because it will allow users to get a great overview of the most recent item that was added to the shop web page, the video is found under the newest items on the home page. Secondly, the discord hyperlink is included in the text on the help pages to navigate any user that clicks on it to the discord log in page, it pretty much functions like a contact us button, this is so that any user can ask the developers of this website to provide information on a certain issue they had, an actual discord server hasn't been made for this website. Thirdly, I did end up using an image for the background of my banner at the top of each page, I chose this image because it seems very appealing due to its brightness and it stands out from all of the other colors included on my website which is great because it is the first thing that will appear on screen when any web page renders in. Lastly, I added a database at the bottom of each shop web page apart for the main shop web page, it includes all of the costs and names of the phones, the dates they were released into stores and the company they were released by and the founder of that company.
+
+## Content removed 
+
+These are the contents that I ended up removing which were mentioned in my planning of the website. 
+
+### I removed:
+- Read reviews button
+- Contact us button
