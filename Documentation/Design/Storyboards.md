@@ -4,6 +4,8 @@
 
 # Elaboration
 
+These are all of my storyborads used to plan out the layout for my website, I have included some alternate designs that I will not be using for my final design but the ideas did cross my mind. The numbers inbetween the website components on the storyboard just represent the spaces inbetween them measured in pixels.
+
 ## Banner and Nav Bar
 
 This image is the storyboard for the home page of my website and this is the deisgn I am most comfortable with using. Like all websites, I have the banner at the top with a navigation bar just underneath so that the navigation for the website is very simple to locate. My banner includes the logo and website name so that the banner introduces the customers to the name and logo of the website as soon as the load up the home page, also the star rating is there at the top as well, this is so that the customers get a good impression because the a great star rating indicates to them that your website is reliable. The nav bar includes what customers would expect for a shopping website; home, shop, help and about us. I kept the options in the nav bar as simple as possible and I didn't include a lot of options because it could get confusing for some users.
