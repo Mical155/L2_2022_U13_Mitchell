@@ -32,7 +32,7 @@ Stakeholders - are a group of people that take an interest to how an enterprise 
 ## Target audience
 Since the website will be an online phone shop, it must mostly include the latest and definately the most reliable since most of the users that would view this website are teenagers and young adults which are the age groups that use phones the most. Having the most popular phones included in the website will also indicate that my website is reliable to provide phones that are wanted by a large amount of people. They are going to be paying to have a reliable and reasonably up to date phone that is also durable, so the choice of phones to have on the website is also very important to attract the attention of potential customers.
 
-## Product info:
+## Product info
 The customers need to know what they are spending their money on, so the product info would include things like the product name, how well it performs, its uses and maybe ratings and reviews so that customers know if it is worth buying based on other peoples opinions.
 
 ## Reasonable  costs
