@@ -9,13 +9,7 @@
 
 <img src="../Images/Typography/TekoSansSerif.png" alt="alt text" height="100%" width="100%">
 
-The font style that I have decided to choose is the 'Teko sans serif' font. This specific font will be used for any text that isn't the text contained within the nav bar. It is an appealing font and fairly easy to read but only under certain conditions and being in the nav bar is not one of them, so as a result I will be using another font style for the nav bar text.
-
-## Chosen nav bar font style (Inter Sans Serif)
-
-<img src="../Images/Typography/InterSansSerif.png" height="100%" width="100%"> 
-
-The font that I have chosen for the nav bar text is kown as 'inter sans serif'. It may be a simple font style but it is good enough for being the nav bar text. This is because it is more bold which is a key aspect for text like the ones found in the nav bar because the idea of them is to stand out and to also make them easier to click on. Plus, the text will still be fairly easier to read when it changes color due to hover over because of how bold it is.
+The font style that I have decided to choose is the 'Teko sans serif' font. This specific font will be the one I am using for all of the text within my website. I believe it is a rather fitting font style to use for a website based on selling mobile phones since it has a very digital world vibe about it, probably due to the way each of the letters are shaped and structured.
 
 ## Alternate font style (Impact)
 
