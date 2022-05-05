@@ -46,4 +46,4 @@
 
 <img src="../Images/Other/logo.jpg" alt="alt text" height="100%" width="100%">
 
-This will be the image for my website and I chose this color scheme because it is similar to the one that I am currently using for my entire website. The logo will be located at the top of each web page within the website. This was made in adobe photoshop and the MP stands for Mitchell's Phones, I could probably add that jus5t underneath so that people know what it stands for.
+This will be the logo for my website and I chose this color scheme because it is similar to the one that I am currently using for my entire website. The logo will be located at the top of each web page within the website. This was made in adobe photoshop and the MP stands for Mitchell's Phones, I could probably add that just underneath so that people know what it stands for.
