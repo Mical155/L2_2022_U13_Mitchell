@@ -21,6 +21,10 @@ What I mean by the shop nav bar compressing with the web page is that currently 
 
 This can easily be changed but the images that are included on the carousel can be darkened when the cursor hovers over them. This is just a way of identifying which content is being hovered over by the user and which one will be clicked on if the user clicked on the mouse. To do this will just add this hover over effect onto the css for the carousel. 
 
+## 3rd Improvement 
+
+I honestly, do believe that some images of the phones in the shop web page are a bit different in terms of the size of the phones on the images. I would be better to keep the consistency of the sizes because users need a good view of the products. I can change this by editing the images on photoshop.
+
 # Changes made
 
 These are the changes that I have made to the website, some of these reasons are because of the reviews I did or becuase of my own opinion of thinking it makes the website look much better.
