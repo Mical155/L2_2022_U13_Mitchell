@@ -75,3 +75,9 @@ When a user opens the help web page they will be able to also open 3 other web p
 ## Summary
 
 When a user opens the 'about us' web page there will be two other web pages that they can open and those are 'reviews' and the 'Who are we?' web pages. There are no more web pages after the 'reviews' web page and the only option is to go back to the 'about us' web page. However, in the 'Who are we?' web page there is another web page that can be opened called 'our intentions' and the 'history' web page. Whilst going through these web pages you can't go back through them, you'll have to go through them all the way to the end of the 'history' page to click on the button to go back to the start. However, on each of these web pages the nav bar is still at the top, so you can click back onto the 'about us' page (including all of the other pages on the nav bar) whilst on any of the help pages instead of having to go through them all. 
+
+## Folder Structure
+
+In order to make it easier for me to navigate through my files and to make linking certain HTML and CSS files much easier, I have made my folder structure for this website very organised for these reasons. 
+
+<img src="../Images/Other/FolderStructure.jpg" alt="alt text" height="100%" width="100%">
