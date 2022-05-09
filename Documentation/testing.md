@@ -27,7 +27,7 @@ This can easily be changed but the images that are included on the carousel can 
 
 ## 3rd Improvement 
 
-I honestly, do believe that some images of the phones in the shop web page are a bit different in terms of the size of the phones on the images. I would be better to keep the consistency of the sizes because users need a good view of the products. I can change this by editing the images on photoshop.
+I did notice that the buttons at the top of the shop page with the logos within them go off the page when the page gets compressed, I'll have to quickly change some of the coding on my css in order to keep them on the screen.
 
 # Changes made
 
