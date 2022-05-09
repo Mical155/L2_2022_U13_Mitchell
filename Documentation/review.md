@@ -36,7 +36,7 @@ Lastly, Ashley recommended that instead of a youtube link I should "embed video 
 
 # Second review
 
-On the 19th of April 2022, I had my website reviwed by Levente, he provided me with some feedback and he agreed that my website was great and functioned properly, he only gave me one improvement which I completley agree with.
+On the 19th of April 2022, I had my website reviwed by Levente Albert, he provided me with some feedback and he agreed that my website was great and functioned properly, he only gave me one improvement which I completley agree with.
 
 ## Improvement 
 

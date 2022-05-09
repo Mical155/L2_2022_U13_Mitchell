@@ -1,3 +1,7 @@
+# Test plan
+
+After I have made my website I will firstly, I will go through the website to try and find any faults/issues, after that I'll have my website reviewed by two people and I will then find solutions for all of the improvments that I have recieved or given myself. I will also provide explanation on why I am making these improvements and also reasons for if I agree or disagree with any feedback I recieve from my reviews.
+
 # Evaluation 
 
 After testing my website and seeing how it functions, meets the stakeholders requirements and how appealing it seems I have given my personal opinions on what I believe is the great about the website and what I think I should improve.
