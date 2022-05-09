@@ -23,7 +23,7 @@ What I mean by the shop nav bar compressing with the web page is that currently 
 
 ## 2nd Improvement 
 
-This can easily be changed but the images that are included on the carousel can be darkened when the cursor hovers over them. This is just a way of identifying which content is being hovered over by the user and which one will be clicked on if the user clicked on the mouse. To do this will just add this hover over effect onto the css for the carousel. 
+This can easily be changed but the images that are included on the carousel can have the cursor change to a pointer wehn it hovers over them. This is so that users are aware that the images are clickable and will take them to another web page. This will just require a little addition to my css. 
 
 ## 3rd Improvement 
 
