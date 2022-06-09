@@ -6,7 +6,9 @@ After I have made my website I will firstly, I will go through the website to tr
 
 After testing my website and seeing how it functions, meets the stakeholders requirements and how appealing it seems I have given my personal opinions on what I believe is the great about the website and what I think I should improve.
 
-Personally, I believe my website meets a majority amount of the stakeholders requirements and their needs. The website is perfectly functional, obviously apart from the purchase page but I did leave a little notification that lets any user know that this hasn't been implemented yet and will be eventually. Apart from that everything else functions completely fine e.g. navigation system, hyperlinks, videos, carousel. I also believe the color scheme is great and will be appealing to stakeholders because it doesn't contain too many colors and not too little, plus it also similary matches the logo of my website that I made on adobe photoshop. I believe the fonts will be fairly readable for people and is rather appealing. I also believe that the images included in the website are at an appropriate size so that they don't come out as compressed and look distorted, plus I have made sure to showcase the most recent phones the most so that they attract more users to go through my website.
+Personally, I believe my website meets a majority amount of the stakeholders requirements and their needs. The website is perfectly functional, obviously apart from the purchase page but I did leave a little notification that lets any user know that this hasn't been implemented yet and will be eventually. Apart from that everything else functions completely fine e.g. navigation system, hyperlinks, videos, carousel. I also believe the color scheme is great and will be appealing to stakeholders because it doesn't contain too many colors and not too little, plus it also similary matches the logo of my website that I made on adobe photoshop. I believe the fonts will be fairly readable for people and is rather appealing. I also believe that the images included in the website are at an appropriate size so that they don't come out as compressed and look distorted, plus I have made sure to showcase the most recent phones the most so that they attract more users to go through my website. 
+
+After testing my website I believe that I should add a database at the bottom of each shop web page (apart for the main one), the database will contain the phone names, company name, owner of that company, price of that phone and the date that phone was released. I've decided that I should add this because it will make it easier on customers for them to find what phone they are looking because it is a simple table that provides them with relevant information about the phone e.g. price, brand, release date etc. 
 
 # Improvements (my opinion)
 
@@ -48,9 +50,33 @@ These are the contents that I have added whilst developing my website but was no
 
 ## Youtube video
 
-Firstly, I added a youtube video which is a showcase of the iphone 13 because it will allow users to get a great overview of the most recent item that was added to the shop web page, the video is found under the newest items on the home page.
+Firstly, after doing a website review with Ashley, a piece of feedback he did give me is that I should include a youtube video on my website. After hearing this, I added a youtube video which is a showcase of the iphone 13. The reason I agreed to add this piece of content is because it provides a clear showcase of a released phone that is recent and that is something most customers would be looking for in a phone shop, they mostly want the products that are recent with up to date quality and updated features. I also made the video on my website quite big so it is much easier to watch and it isn't too small since I acknowledged that some people may have difficulties in trying to watch it at a small size. 
+
+## Here is the aftermath 
 
 <img src="./Images/Other/Youtubevideo.png" alt="alt text" height="100%" width="100%">
+
+## Here is before the addition
+
+<img src="./Images/Other/BeforeYoutubeVideo.png" alt="alt text" height="100%" width="100%">
+
+## Nav bar font
+
+Another piece of feedback that Ashley provided me with is that I should change the font for the text on the nav bar because it didn't mix well with the color that it changes to when the cursor hovers over it and the font is a bit too bold, especially when it changed to dark blue which is the color it changed to. Since I agreed with this feedback, I changed the font from 'Teko sans serif' to 'Inter', I also changed the color from dark blue to black,'Teko snas serif' is the font I use for the rest of the text in the website and it does fit well and is very visible since the text is white, but when it comes to the nav bar text and being changed to a darker color, it doesn't work. I made these changes because the 'Inter' font style is not too bold like the original font I was using which makes it easier to read when the color changes, having the text change to black is better than dark blue because black is nearly the opposite to the light grey background colour I have which prevents the text from blending in with the background which would make the text hard to read if it did, even though dark blue is an entirely different colour to dark grey, it didn't achieve this as much as the color black. Even though the original is readable for some people, you can definately see how the updated version is much more visible than the original, here is an image of the changes I made and here is an image of what it looked like before this change.
+
+## Here is the aftermath
+
+<img src="./Images/Other/TextFontChange.png" alt="alt text" height="100%" width="100%">
+
+## Here is before the addition
+
+<img src="./Images/Other/TextFontBefore.png" alt="alt text" height="100%" width="100%">
+
+## Database
+
+When I tested my website to find out if it functions properly and it meets the target audiences needs, I decided that I wanted to add a database at the bottom of each shop web page (apart for the main one). I decided to add this because it can provide some assistance for a customer to find the right phone for them and also helps them to find it on the webiste. Not only that, but it also provides relevant information about the phone such as the price, brand and release date. Here is an image of the database on the apple phone shop web page.
+
+<img src="./Images/Other/Database.png" alt="alt text" height="100%" width="100%">
 
 ## Discord Link
 
@@ -63,16 +89,6 @@ Secondly, the discord hyperlink is included in the text on the help pages to nav
 Thirdly, I did end up using an image for the background of my banner at the top of each page, I chose this image because it seems very appealing due to its brightness and it stands out from all of the other colors included on my website which is great because it is the first thing that will appear on screen when any web page renders in.
 
 <img src="./Images/Other/Bannerbackground.png" alt="alt text" height="100%" width="100%">
-
-## Database
-
-After that, I added a database at the bottom of each shop web page apart for the main shop web page, it includes all of the costs and names of the phones, the dates they were released into stores and the company they were released by and the founder of that company.
-
-<img src="./Images/Other/Database.png" alt="alt text" height="100%" width="100%">
-
-## Nav bar font
-
-The nav bar font was changed after Ashleys review, I did completely agree that the current font I was using made the text bit harder to read since when the cursor hovers over it the color will change and it doesn't mix well with the font, so I just changed it to the font 'inter sans-serif' which is much easier to read as seen in the image for the banner background and the discord link.
 
 ## Content removed 
 
