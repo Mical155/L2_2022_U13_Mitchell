@@ -76,7 +76,13 @@ Another piece of feedback that Ashley provided me with is that I should change t
 
 When I tested my website to find out if it functions properly and it meets the target audiences needs, I decided that I wanted to add a database at the bottom of each shop web page (apart for the main one). I decided to add this because it can provide some assistance for a customer to find the right phone for them and also helps them to find it on the webiste. Not only that, but it also provides relevant information about the phone such as the price, brand and release date. Here is an image of the database on the apple phone shop web page.
 
+## Here is the aftermath
+
 <img src="./Images/Other/Database.png" alt="alt text" height="100%" width="100%">
+
+## Here is before the addition
+
+<img src="./Images/Other/BeforeDatabase.png" alt="alt text" height="100%" width="100%">
 
 ## Discord Link
 
