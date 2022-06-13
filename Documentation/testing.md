@@ -50,7 +50,9 @@ These are the contents that I have added whilst developing my website but was no
 
 ## Youtube video
 
-Firstly, after doing a website review with Ashley, a piece of feedback he did give me is that I should include a youtube video on my website. After hearing this, I added a youtube video which is a showcase of the iphone 13. The reason I agreed to add this piece of content is because it provides a clear showcase of a released phone that is recent and that is something most customers would be looking for in a phone shop, they mostly want the products that are recent with up to date quality and updated features. I also made the video on my website quite big so it is much easier to watch and it isn't too small since I acknowledged that some people may have difficulties in trying to watch it at a small size. 
+Firstly, after doing a website review with Ashley, a piece of feedback he did give me is that I should include a youtube video on my website. After hearing this, I added a youtube video which is a showcase of the iphone 13. 
+
+The reason I agreed to add this piece of content is because it provides a clear showcase of a released phone that is recent and that is something most customers would be looking for in a phone shop, they mostly want the products that are recent with up to date quality and updated features. I also made the video on my website quite big so it is much easier to watch and it isn't too small since I acknowledged that some people may have difficulties in trying to watch it at a small size. 
 
 ## Here is the aftermath 
 
@@ -62,7 +64,9 @@ Firstly, after doing a website review with Ashley, a piece of feedback he did gi
 
 ## Nav bar font
 
-Another piece of feedback that Ashley provided me with is that I should change the font for the text on the nav bar because it didn't mix well with the color that it changes to when the cursor hovers over it and the font is a bit too bold, especially when it changed to dark blue which is the color it changed to. Since I agreed with this feedback, I changed the font from 'Teko sans serif' to 'Inter', I also changed the color from dark blue to black,'Teko snas serif' is the font I use for the rest of the text in the website and it does fit well and is very visible since the text is white, but when it comes to the nav bar text and being changed to a darker color, it doesn't work. I made these changes because the 'Inter' font style is not too bold like the original font I was using which makes it easier to read when the color changes, having the text change to black is better than dark blue because black is nearly the opposite to the light grey background colour I have which prevents the text from blending in with the background which would make the text hard to read if it did, even though dark blue is an entirely different colour to dark grey, it didn't achieve this as much as the color black. Even though the original is readable for some people, you can definately see how the updated version is much more visible than the original, here is an image of the changes I made and here is an image of what it looked like before this change.
+Another piece of feedback that Ashley provided me with is that I should change the font for the text on the nav bar because it didn't mix well with the color that it changes to when the cursor hovers over it and the font is a bit too bold, especially when it changed to dark blue which is the color it changed to. Since I agreed with this feedback, I changed the font from 'Teko sans serif' to 'Inter', I also changed the color from dark blue to black,'Teko snas serif' is the font I use for the rest of the text in the website and it does fit well and is very visible since the text is white, but when it comes to the nav bar text and being changed to a darker color, it doesn't work. 
+
+I made these changes because the 'Inter' font style is not too bold like the original font I was using which makes it easier to read when the color changes, having the text change to black is better than dark blue because black is nearly the opposite to the light grey background colour I have which prevents the text from blending in with the background which would make the text hard to read if it did, even though dark blue is an entirely different colour to dark grey, it didn't achieve this as much as the color black. Even though the original is readable for some people, you can definately see how the updated version is much more visible than the original, here is an image of the changes I made and here is an image of what it looked like before this change.
 
 ## Here is the aftermath
 
@@ -74,7 +78,9 @@ Another piece of feedback that Ashley provided me with is that I should change t
 
 ## Database
 
-When I tested my website to find out if it functions properly and it meets the target audiences needs, I decided that I wanted to add a database at the bottom of each shop web page (apart for the main one). I decided to add this because it can provide some assistance for a customer to find the right phone for them and also helps them to find it on the webiste. Not only that, but it also provides relevant information about the phone such as the price, brand and release date. Here is an image of the database on the apple phone shop web page.
+When I tested my website to find out if it functions properly and it meets the target audiences needs, I decided that I wanted to add a database at the bottom of each shop web page (apart for the main one).
+
+I decided to add this because it can provide some assistance for a customer to find the right phone for them and also helps them to find it on the webiste. Not only that, but it also provides relevant information about the phone such as the price, brand and release date. Here is an image of the database on the apple phone shop web page.
 
 ## Here is the aftermath
 
@@ -86,13 +92,13 @@ When I tested my website to find out if it functions properly and it meets the t
 
 ## Discord Link
 
-Secondly, the discord hyperlink is included in the text on the help pages to navigate any user that clicks on it to the discord log in page, it pretty much functions like a contact us button, this is so that any user can ask the developers of this website to provide information on a certain issue they had, an actual discord server hasn't been made for this website.
+Secondly, the discord hyperlink is included in the text on the help pages to navigate any user that clicks on it to the discord log in page, it pretty much functions like a contact us button, this is so that any user can ask the developers of this website to provide information on a certain issue they had, an actual discord server hasn't been made for this website. I decided to add this to my website because it can indicate to customers that you are clearly reliable and it allows them to know that they can seek assistance from me at any point.
 
 <img src="./Images/Other/Discordlink.png" alt="alt text" height="100%" width="100%">
 
 ## Banner background
 
-Thirdly, I did end up using an image for the background of my banner at the top of each page, I chose this image because it seems very appealing due to its brightness and it stands out from all of the other colors included on my website which is great because it is the first thing that will appear on screen when any web page renders in.
+Thirdly, I did end up using an image for the background of my banner at the top of each page, I chose this image because it seems very appealing due to its brightness and it stands out from all the other colors included on my website which is great because it is the first thing that will appear on screen when any web page renders in. The reason I decided to add this to my website because it not only looks professional, but it will also display that I like to have an organised layout and design to customers. 
 
 <img src="./Images/Other/Bannerbackground.png" alt="alt text" height="100%" width="100%">
 
