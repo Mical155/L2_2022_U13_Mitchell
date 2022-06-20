@@ -92,7 +92,7 @@ I decided to add this because it can provide some assistance for a customer to f
 
 ## Discord Link
 
-Secondly, the discord hyperlink is included in the text on the help pages to navigate any user that clicks on it to the discord log in page, it pretty much functions like a contact us button, this is so that any user can ask the developers of this website to provide information on a certain issue they had, an actual discord server hasn't been made for this website. I decided to add this to my website because it can indicate to customers that you are clearly reliable and it allows them to know that they can seek assistance from me at any point.
+Secondly, the discord hyperlink is included in the text on the help pages to navigate any user that clicks on it to the discord log in page, it pretty much functions like a contact us button, this is so that any user can ask the developers of this website to provide information on a certain issue they had, an actual discord server hasn't been made for this website. I decided to add this to my website because it can indicate to customers that I am clearly reliable and it allows them to know that they can seek assistance from me at any point.
 
 ## Here is the aftermath
 
@@ -104,7 +104,7 @@ Secondly, the discord hyperlink is included in the text on the help pages to nav
 
 ## Banner background
 
-Thirdly, I did end up using an image for the background of my banner at the top of each page, I chose this image because it seems very appealing due to its brightness and it stands out from all the other colors included on my website which is great because it is the first thing that will appear on screen when any web page renders in. The reason I decided to add this to my website because it not only looks professional, but it will also display that I like to have an organised layout and design to customers. 
+Thirdly, I did end up using an image for the background of my banner at the top of each page, I chose this image because it seems very appealing due to its brightness and it stands out from all the other colors included on my website which is great because it is the first thing that will appear on screen when any web page renders in. The reason I decided to add this to my website is because it not only looks professional, but it will also display that I like to have an organised layout and design to customers, plus it displays that I like to get creative when it comes to designing a website. 
 
 ## Here is the aftermath
 
